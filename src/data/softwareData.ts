@@ -150,7 +150,7 @@ export const categories: Category[] = [
       user: { email: 'mahnoorkhan@gmail.com', password: 'Noor45' },
     },
     software: [
-      { name: 'Infinity Byte', url: 'https://call-logs-frontend.vercel.app/', company: 'Infinity Byte' },
+      { name: 'Infinity Byte', url: 'https://cms-logs-frontend.vercel.app/', company: 'Infinity Byte' },
       { name: 'Core Tech', url: 'https://core-tech-call-logs-xi.vercel.app/', company: 'Core Tech' },
       { name: 'Sky Links', url: 'https://sky-link-call-logs-one.vercel.app/', company: 'Sky Links' },
     ],
